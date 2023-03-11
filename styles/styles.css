@@ -24,12 +24,12 @@ body{
     justify-content: space-between;
     align-items: center;
     position: relative;
-    padding: 44px 0 60px 0;
+    padding: 45px 0 68px 0;
 }
 
 .menu__list{
     display: flex;
-    gap: 43px;
+    gap: 48px;
 }
 
 .menu__link{
@@ -49,14 +49,14 @@ body{
 /*Загаловок сайта*/
 
 .main-top{
-    margin-bottom: 120px;
+    margin-bottom: 83px;
 }
 
 .main-top__title{
     font-size: 150px;
     font-weight: 700;
     line-height: 133px;
-    letter-spacing: -0.07em;
+    letter-spacing: -0.065em;
     color: #FF25C2;
     margin-bottom: 20px;
 }
@@ -65,7 +65,7 @@ body{
     display: flex;
     justify-content: center;
     margin: 0 auto;
-    padding: 20px 0 807px 0;
+    padding: 22px 0 807px 0;
     width: 819px;
     background: url('../images/NothingEar\ 1@2x.png');
     background-size: contain;
@@ -78,7 +78,7 @@ body{
     font-size: 25px;
     font-weight: 200;
     line-height: 30px;
-    letter-spacing: -0.03em;
+    letter-spacing: -0.02em;
 }
 
 /*Модели*/
@@ -182,11 +182,11 @@ body{
 
 .functions__text{
     margin: 0 auto;
-    padding: 39px 10px 0;
+    padding: 40px 10px 0;
     font-size: 25px;
     font-weight: 200;
-    line-height: 25px;
-    letter-spacing: -0.03em;
+    line-height: 30px;
+    letter-spacing: -0.025em;
     width: 671px;
 }
 
@@ -224,7 +224,7 @@ body{
     font-size: 25px;
     font-weight: 200;
     line-height: 30px;
-    letter-spacing: -0.03em;
+    letter-spacing: -0.02em;
 }
 
 .shop-cart{
@@ -242,7 +242,7 @@ body{
     font-size: 100px;
     font-weight: 600;
     line-height: 74px;
-    letter-spacing: -0.06em;
+    letter-spacing: -0.055em;
 }
 
 .shop-cart__text{
@@ -278,11 +278,11 @@ body{
 }
 
 .sound__title{
-    padding: 150px 0 100px 0;
+    padding: 150px 25px 100px 0;
     font-size: 100px;
     font-weight: 600;
     line-height: 74px;
-    letter-spacing: -0.06em;
+    letter-spacing: -0.054em;
 }
 
 .sound__box{
@@ -296,13 +296,13 @@ body{
 
 .sound__box-text{
     margin: 0 auto;
-    padding: 340px 0 0 0;
+    padding: 340px 44px 0 0;
     bottom: 50px;
-    width: 475px;
+    width: 520px;
     font-size: 25px;
     font-weight: 200;
     line-height: 30px;
-    letter-spacing: -0.03em;
+    letter-spacing: -0.021em;
 }
 
 /*Контакты*/
@@ -312,7 +312,7 @@ body{
     justify-content: space-between;
     align-items: center;
     position: relative;
-    padding: 60px 0 200px 0;
+    padding: 60px 40px 200px 0;
 }
 
 .contacts__list{
@@ -346,7 +346,11 @@ body{
     justify-content: space-between;
     align-items: center;
     position: relative;
-    padding: 0 0 52px 0;
+    padding: 0 70px 52px 0;
+}
+
+.nothing{
+    margin-left: 68px;
 }
 
 .nothing__text{
@@ -356,4 +360,5 @@ body{
     letter-spacing: -0.03em;
     color: #FF25C2;
     margin-top: 48px;
+    padding: 8px 0px 0 0;
 }
